@@ -1,0 +1,29 @@
+{
+  "name": "j19-htmlverify",
+  "version": "1.0.0",
+  "description": "this a html file verify",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSextend19/j19-htmlVerify.git"
+  },
+  "keywords": [
+    "html",
+    "verify",
+    "event"
+  ],
+  "author": "usernameisregistered",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSextend19/j19-htmlVerify/issues"
+  },
+  "homepage": "https://github.com/JSextend19/j19-htmlVerify#readme",
+  "dependencies": {
+    "@jsextend19/j19-event": "^1.1.0",
+    "colors": "^1.4.0",
+    "moment": "^2.24.0"
+  }
+}
